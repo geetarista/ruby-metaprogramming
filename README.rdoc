@@ -13,9 +13,9 @@
 
 === Videos
 
-{The Ruby Object Model}[http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4] - Dave Thomas' presentation at Scotland on Rails
-{MetaProgramming - Extending Ruby for Fun and Profit}[http://www.infoq.com/presentations/metaprogramming-ruby] - Dave Thomas' presentation at QCon
-{The Ruby Object Model and Metaprogramming}[http://www.pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming] - Series of paid screencasts from Pragmatic Programmers
+* {The Ruby Object Model}[http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4] - Dave Thomas' presentation at Scotland on Rails
+* {MetaProgramming - Extending Ruby for Fun and Profit}[http://www.infoq.com/presentations/metaprogramming-ruby] - Dave Thomas' presentation at QCon
+* {The Ruby Object Model and Metaprogramming}[http://www.pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming] - Series of paid screencasts from Pragmatic Programmers
 
 === Books
 
