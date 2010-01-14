@@ -10,6 +10,7 @@
 * {Extending your include knowledge of Ruby}[http://macournoyer.wordpress.com/2007/07/06/extending-your-include-knowledge-of-ruby/]
 * {Include vs Extend in Ruby}[http://railstips.org/blog/archives/2009/05/15/include-vs-extend-in-ruby/]
 * {Ruby's Metaprogramming Toolbox}[http://weare.buildingsky.net/2009/08/25/rubys-metaprogramming-toolbox]
+* {Ruby reflection}[http://www.khelll.com/blog/ruby/ruby-reflection/]
 
 === Videos
 
@@ -21,4 +22,7 @@
 
 * {Metaprogramming Ruby}[http://www.pragprog.com/titles/ppmetr/metaprogramming-ruby] - Entire book
 
-Solutions to assignments from: http://ruby-metaprogramming.rubylearning.com
+== Exercises
+
+* {Metaprogramming in Ruby}[http://ruby-metaprogramming.rubylearning.com/] - {Solutions}[http://github.com/geetarista/ruby-metaprogramming/tree/master/rubylearning/]
+* {An Exercise in Metaprogramming with Ruby}[http://www.devsource.com/c/a/Languages/An-Exercise-in-Metaprogramming-with-Ruby/]
